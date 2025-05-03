@@ -1,4 +1,4 @@
-<h1 class="text-3xl font-bold text-center mb-6"><?= htmlspecialchars($title) ?></h1>
+<h1 class="mt-20 text-3xl font-bold text-center mb-6"><?= htmlspecialchars($title) ?></h1>
 
 <form method="POST" action="/new-client" class="max-w-xl mx-auto bg-white p-6 rounded-2xl shadow-lg space-y-5">
     <div>
