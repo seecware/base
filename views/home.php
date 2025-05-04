@@ -44,12 +44,14 @@
 
     <!-- Tarjeta 4 -->
     <a href="/creditos" class="block bg-white shadow-md rounded-xl p-6 hover:shadow-xl transition duration-300 group">
-      <div class="bg-purple-100 text-purple-600 p-3 rounded-full text-2xl group-hover:scale-110 transition">
-        💰
-      </div>
-      <div class="mt-4">
-        <h3 class="text-lg font-semibold text-gray-800 group-hover:text-purple-600">Créditos</h3>
-        <p class="text-sm text-gray-500">Gestionar créditos otorgados.</p>
+      <div class="flex items-center space-x-4">
+        <div class="bg-purple-100 text-yellow-600 p-3 rounded-full text-2xl group-hover:scale-110 transition">
+            💰
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold text-gray-800 group-hover:text-purple-600">Créditos</h3>
+          <p class="text-sm text-gray-500">Gestionar créditos otorgados.</p>
+        </div>
       </div>
     </a>
 
